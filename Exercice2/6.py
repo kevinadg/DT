@@ -7,8 +7,8 @@ headers = {
 
 # Configuration de PRAW pour se connecter à Reddit
 reddit = praw.Reddit(
-    client_id="TON_CLIENT_ID",          # Remplace avec ton client ID
-    client_secret="TON_CLIENT_SECRET",  # Remplace avec ton client secret
+    client_id="p7XFBCV2is0jEJKA1RV2Cw",          # Remplace avec ton client ID
+    client_secret="pLu2i7_9SdozVxZ4abttiyvQ2YOpVw",  # Remplace avec ton client secret
     user_agent="mypython/2.0 (kevinadagbe@gmail.com)",  # Ton User-Agent
         # Remplace avec ton nom d'utilisateur Reddit
         # Remplace avec ton mot de passe Reddit
